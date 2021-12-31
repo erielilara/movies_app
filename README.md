@@ -1,8 +1,8 @@
 # movies_app
 
 A new Flutter project.
-
-## Getting Started
+<img src="assets/PAG_1.jpg" alt="First Pic"/>
+## Getting Started 
 
 This project is a starting point for a Flutter application.
 
