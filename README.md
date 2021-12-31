@@ -1,8 +1,8 @@
 # movies_app
 
 A new Flutter project.
-<img src="assets/PAG_1.jpg" alt="First Pic"/>
-## Getting Started 
+![Image text](https://github.com/erielilara/movies_app/blob/main/assets/PAG%20_1.jpg)
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
